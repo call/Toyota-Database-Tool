@@ -1,5 +1,6 @@
 # Toyota-Database-Tool
 
+
 Hello. This is a program for data mining Toyota cars.
 As of Spring 2020, there is no official public database for shopping for Toyota vehicles. Instead, there's only a unique website for each Toyota dealership in the United States. If you were shopping for a new Toyota, wouldn't it be much more efficient to search through all of the Toyota cars at once instead of having to visit each website?
 
