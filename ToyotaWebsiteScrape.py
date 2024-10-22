@@ -8,9 +8,9 @@ import re
 import ToyotaGetVin as t
 
 
-with open("C:/Users/schro/Downloads/CS3435/Project v2/ToyotaDealerURLs") as f:
+with open("./ToyotaDealerURLs") as f:
     websiteLines = f.read().splitlines()
-with open("C:/Users/schro/Downloads/CS3435/Project v2/ToyotaDealerSearchpageURLs") as f:
+with open("./ToyotaDealerSearchpageURLs") as f:
     searchPageLines = f.read().splitlines()
 
 hdr = {'User-Agent': 'Mozilla/5.0'}
